@@ -5,8 +5,8 @@
 
 - Приложение (десктопное, если получится - и на Android)
 - Инпут - ключевые слова через пробел, речь пользователя
-- Аутпут - написанные и/или произнесённые пропущенные ключевые слова или следующие несколько слов
-- kivy, speech_recognition, gtts, playsound, pyaudio
+- Аутпут - написанные и произнесённые пропущенные/ещё не произнесённые ключевые слова
+- kivy (а также kivy.app, kivy.uix.label, kivy.uix.boxlayout, kivy.uix.button, kivy.uix.textinput для интерфейса), speech_recognition, gtts, pyaudio, pygame
 
 ## Критерий завершенного проекта
 
